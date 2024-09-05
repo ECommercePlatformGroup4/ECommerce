@@ -46,11 +46,7 @@
     <p>We appreciate your feedback! Please take a few minutes to complete this survey and help us improve our e-commerce platform.</p>
     <form action="process_survey.php" method="post">
         <!-- Customer Information -->
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
+      
 
         <!-- Overall Satisfaction -->
         <label for="satisfaction">Overall Satisfaction with the Platform:</label>
