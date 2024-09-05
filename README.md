@@ -42,10 +42,10 @@
     </style>
 </head>
 <body>
-    <h1>E-Commerce Platform Survey</h1>
+    <h1> Anonymous E-Commerce Platform Survey</h1>
     <p>We appreciate your feedback! Please take a few minutes to complete this survey and help us improve our e-commerce platform.</p>
     <form action="process_survey.php" method="post">
-        <!-- Customer Information -->
+      
       
 
         <!-- Overall Satisfaction -->
